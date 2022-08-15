@@ -8,7 +8,7 @@ My main topics to learn are
   * Python 
   
 How to reach me:
-  - 🔗 [LinkedIn](www.linkedin.com/in/grodnane)
+  - 🔗 [LinkedIn](https://linkedin.com/in/grodnane)
   - 📫 [Email](mailto:grodnane@gmail.com)
   - 🐦 [Twitter](https://twitter.com/grodnane)
 
