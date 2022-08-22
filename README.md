@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gustavo! I´m currently working as a consultant for BMC ITSM package. Beside that i´m lookint to change my scope, I want to work as a software developer.
+My name is Gustavo! I´m currently working as a consultant for BMC ITSM package. Beside that i´m looking to change my scope, I want to work as a software developer.
 
 My main topics to learn are
   * React
